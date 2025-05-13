@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(109, 168, 143);
+    font-size: 2.5em;
+    font-family: fantasy;
+}
+body {
+    background-color: beige;
+}
+p {
+    font-size: 1.5em;
+}
+.liste {
+    text-decoration: underline;
+}
+#weg {
+    color: rgb(109, 168, 143);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.hoffnung {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+    color: lightskyblue;
+    font-size: 1.2em;
+}
+#mann {
+    text-decoration: wavy;
+}
