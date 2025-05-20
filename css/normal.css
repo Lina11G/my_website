@@ -1,0 +1,23 @@
+h1 {
+    font-family: serif;
+    font-size: 2em;
+    color: darkslateblue;
+}
+#zahl {
+    font-weight: bold;
+}
+#number {
+    font-family: monospace;
+    font-weight: bold;
+}
+table, th, td {
+    border: 1px solid black;
+}
+.farbe {
+    background-color: gray;
+    color: white;
+}
+.frage {
+    font-family: fantasy;
+    color: slateblue;
+}

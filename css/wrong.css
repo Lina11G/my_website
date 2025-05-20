@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(200, 198, 198);
+}
+h1 {
+    font-family:Cambria Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-size: 3em;
+    font-weight: bolder ;
+}
+p {
+    font-family: monospace;  
+}
+.letztes {
+    font-family:serif;
+    font-weight: bold;
+}
+.versagen {
+    color: rgb(18, 76, 147);
+    font-family: serif;
+}
+#wort {
+    color: darkred;    
+}
+#wohnung {
+    text-decoration: underline;
+}
